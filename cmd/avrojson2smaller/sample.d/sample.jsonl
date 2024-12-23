@@ -1,0 +1,2 @@
+{"name":"fuji", "data":"{\"k1\":42.0, \"k2\":3.776}", "status":404, "id":42, "rate":99.9, "height":3.776, "active":false, "created":"2024-12-20T01:21:08.012345Z"}
+{"name":"takao", "data":"{\"k1\":42.195, \"k2\":0.599}", "status":403, "id":43, "rate":98.7, "height":0.599, "active":true, "created":"2024-12-10T01:21:08.012345Z"}
